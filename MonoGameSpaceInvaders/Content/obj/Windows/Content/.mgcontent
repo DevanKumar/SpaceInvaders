@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/darkgrey_05.png</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/explosion.png</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/font.spritefont</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/green_02.png</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/large_green_01.png</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/player bullets.png</File>
+    <File>C:/Users/aarti/Documents/Visual Studio 2017/Projects/MonoGameSpaceInvaders/MonoGameSpaceInvaders/Content/shield1.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>player</File>
+    <File>explosion</File>
+    <File xsi:nil="true" />
+    <File>enemy2</File>
+    <File>flyByEnemy</File>
+    <File>bullets</File>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
